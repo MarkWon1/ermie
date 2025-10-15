@@ -1,0 +1,70 @@
+.div1 {
+    color: cornflowerblue;
+    text-decoration: underline;
+    
+    
+
+
+}
+
+.div2 {
+    font-family: cursive;
+    text-decoration: underline cornflowerblue;
+    
+
+}
+
+body {
+    margin: 10px 60px;
+    font-family: cursive;
+    border-style: solid;
+    padding: 30px 20px;
+    border-radius: 30px;
+    border-color: black;
+
+}
+
+.div3 {
+    text-align: justify;
+    text-decoration: underline black;
+    border-style: solid;
+    padding: 30px 20px;
+    border-radius: 30px;
+   
+
+}
+
+.div4 {
+    color: blue;
+}
+.div5{
+    color: cornflowerblue;
+    text-decoration: underline cornflowerblue;
+}
+
+.div6{
+   
+    border-style: solid;
+    padding: 10px 10px;
+    width: 200px;
+    border-radius: 30px;
+    border: 10px solid;
+    
+    
+}
+.div7{
+    border-style: solid;
+    padding: 30px 20px;
+    border-radius: 30px;
+}
+
+.div8{
+    border-style: solid;
+    padding: 30px 20px;
+    border-radius: 30px;
+    text-decoration: underline black;
+}
+
+.div9{
+    text-decoration: underline cornflowerblue;
+}

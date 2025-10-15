@@ -1,0 +1,105 @@
+.div1:hover {
+  text-align: center;
+  font-family: cursive;
+  text-decoration: underline solid;
+  border-style: solid;
+  border-radius: 20px;
+  background-color: lightsteelblue;
+  scale: 1;
+
+}
+.cards div:hover {
+  scale: 1.05;
+}
+
+.cards div p {
+  text-align: justify;
+
+}
+
+.cards div img {
+  max-width: 300px;
+}
+
+.body {
+  text-align: center;
+}
+
+
+
+
+
+.div2 {
+  display: inline-block;
+  max-height: 300px;}
+  
+
+.div3 {
+  display: inline-block;
+  border-style: solid;
+  padding: 10px 10px;
+  width: 305px;
+  border-radius: 30px;
+  border: solid;
+  border-color: black;
+  text-align: center;
+  height: 100%;
+  margin-top: 30px;
+  margin-right: 10px;
+  background-color: lightblue;
+  max-height: 150;
+
+}
+
+.div4 {
+  display: inline-block;
+  border-style: solid;
+  padding: 10px 10px;
+  width: 305px;
+  border-radius: 30px;
+  border: solid;
+  border-color: black;
+  text-align: center;
+  height: 100%;
+  margin-top: 30px;
+  margin-right: 10px;
+  background-color: lightcoral;
+  max-height: 150;
+
+}
+
+.div5 {
+  display: inline-block;
+  border-style: solid;
+  padding: 10px 10px;
+  width: 305px;
+  border-radius: 30px;
+  border: solid;
+  border-color: black;
+  text-align: center;
+  height: 100%;
+  margin-top: 30px;
+  margin-right: 10px;
+  background-color: lightgreen;
+  max-height: 150;
+
+
+}
+
+.div6 {
+  display: inline-block;
+  border-style: solid;
+  padding: 10px 10px;
+  width: 200px;
+  border-radius: 30px;
+  border: solid;
+  border-color: black;
+  text-align: center;
+  height: 50%;
+  margin-top: 30px;
+  margin-right: 10px;
+  background-color: lightsalmon;
+  max-height: 150;
+
+}
+

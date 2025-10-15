@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/game.css">
+</head>
+
+<body >
+    <div>
+        <h1>Welcome To Rock Paper Scissor</h1>
+        <h3>Points</h3>
+        <p>player 1</p>
+        <p>AI</p>
+        <h3>Player</h3>
+
+
+
+
+        <h3>Player Choice</h3>
+        <img src="/assets/images.png" alt="" id="imageHolder">
+        <select name="selector" id="selector" onchange="ChangePic(value)">
+            <option value="">select</option>
+            <option value="1">Rock</option>
+            <option value="2">Paper</option>
+            <option value="3">Scissor</option>
+        </select>
+        <button onclick="play()">GOOOO!!</button>
+
+        <div id="friend">
+            <h1>VS</h1>
+            <p>AI Choice</p>
+
+            <img src="/assets/images.png" alt="" id="imageHolder2">
+        </div>
+
+       
+    </div>
+    <script src="/js/game.js"></script>
+</body>
+
+</html>
